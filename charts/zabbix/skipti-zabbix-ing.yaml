@@ -73,4 +73,5 @@ spec:
   tls:
   - hosts:
     - zabbix.skipti.com
+      zabbix1.skipti.com
     secretName: skipti-crt
