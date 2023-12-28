@@ -57,7 +57,7 @@ metadata:
       add_header          X-XSS-Protection "1; mode=block";
       add_header          X-Content-Security-Policy "default-src=self";
   generation: 2
-  name: qa-skipti-routes-service
+  name: zabbix-skipti
   namespace: zabbix
 spec:
   rules:
